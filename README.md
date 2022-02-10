@@ -10,4 +10,4 @@ Relação entre duas tabelas (campeonato-time)
 
 # Criar Times
 
-[ ] mais 4
+[ ] Ter 5 Times
