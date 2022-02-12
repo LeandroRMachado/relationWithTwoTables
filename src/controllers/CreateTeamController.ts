@@ -9,7 +9,6 @@ class CreateTeamController {
         name
       }
     })
-
     return response.json(team)
   }
 }
