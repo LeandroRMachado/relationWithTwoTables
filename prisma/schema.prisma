@@ -14,3 +14,10 @@ model Team {
 
   @@map("teams")
 }
+
+model ChampionShip {
+  id   String @id @default(uuid())
+  name String
+
+  @@map("championships")
+}
